@@ -1,7 +1,6 @@
 # :hotel: Task Real Estate
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/baajarmeh/fiber-estate)](https://goreportcard.com/report/github.com/baajarmeh/fiber-estate)
-[![CodeFactor](https://www.codefactor.io/repository/github/baajarmeh/fiber-estate/badge)](https://www.codefactor.io/repository/github/baajarmeh/fiber-estate)
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/baajarmeh/fiber-estate)
 ![Lines of code](https://img.shields.io/tokei/lines/github/baajarmeh/fiber-estate)
 ![Github Repository Size](https://img.shields.io/github/repo-size/baajarmeh/fiber-estate)
